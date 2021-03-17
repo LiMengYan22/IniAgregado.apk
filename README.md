@@ -1,2 +1,3 @@
 # IniAgregado.apk
-Barra del Titulo en aplicaciones Android (APKs)
+Mostrar/ocultar: 
+**Barra del Titulo** en aplicaciones móvil Android (APKs).
